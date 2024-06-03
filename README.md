@@ -1,6 +1,6 @@
 # Preview Discussion
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/simonxeko/preview-discussion.svg)](https://packagist.org/packages/simonxeko/preview-discussion)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/anthonyogundipe/preview-discussion.svg)](https://packagist.org/packages/anthonyogundipe/preview-discussion)
 
 A [Flarum](http://flarum.org) extension. Preview the final output when editing a new discussion
 
@@ -9,15 +9,15 @@ A [Flarum](http://flarum.org) extension. Preview the final output when editing a
 Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
 
 ```sh
-composer require simonxeko/preview-discussion
+composer require anthonyogundipe/preview-discussion
 ```
 
 ### Updating
 
 ```sh
-composer update simonxeko/preview-discussion
+composer update anthonyogundipe/preview-discussion
 ```
 
 ### Links
 
-- [Packagist](https://packagist.org/packages/simonxeko/preview-discussion)
+- [Packagist](https://packagist.org/packages/anthonyogundipe/preview-discussion)
