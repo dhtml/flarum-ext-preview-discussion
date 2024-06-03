@@ -1,15 +1,15 @@
 <?php
 
 /*
- * This file is part of simonxeko/preview-discussion.
+ * This file is part of anthonyogundipe/preview-discussion.
  *
- * Copyright (c) 2020 simonxeko.
+ * Copyright (c) 2020 anthonyogundipe.
  *
  * For the full copyright and license information, please view the LICENSE.md
  * file that was distributed with this source code.
  */
 
-namespace Simonxeko\PreviewDicussion;
+namespace anthonyogundipe\PreviewDicussion;
 
 use Flarum\Extend;
 

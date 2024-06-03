@@ -12,7 +12,7 @@
   "authors": [],
   "autoload": {
     "psr-4": {
-      "Simonxeko\\PreviewDicussion\\": "src/"
+      "anthonyogundipe\\PreviewDicussion\\": "src/"
     }
   },
   "extra": {
